@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# vscode
+.vscode
+
+# ignore ds store
+.DS_Store
